@@ -27,14 +27,14 @@ const ContactState = props => {
         name: "Zabek Ortega",
         email: "zabek@qteam.com",
         phone: "444-444-4444",
-        type: "personal"
+        type: "professional"
       },
       {
         id: 1,
         name: "Angelfire Starformation",
         email: "afire@crescentmooon.com",
         phone: "444-444-4444",
-        type: "personal"
+        type: "professional"
       }
     ]
   };
